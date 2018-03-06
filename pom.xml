@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.test</groupId>
-	<artifactId>webapp</artifactId>
+	<groupId>com.arpit</groupId>
+	<artifactId>angular-grunt-example</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
-	<name>webapp</name>
+	<name>angular-grunt-example</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<spring.version>4.2.5.RELEASE</spring.version>
@@ -108,6 +108,6 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>webapp</finalName>
+		<finalName>angular-grunt-example</finalName>
 	</build>
 </project>
