@@ -1,10 +1,10 @@
-### Build the application
+### Build Application
 
 ```
 mvn clean install
 ```
 
-### Access application
+### Access Application
 
 ```
 http://localhost:8080/angular-grunt-example/
